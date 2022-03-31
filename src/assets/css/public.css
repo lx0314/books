@@ -1,0 +1,13 @@
+@import "normalize.css";
+:root{
+    --van-nav-bar-background-color:#16cb8a;
+    --van-collapse-item-content-font-size:0.5rem!important;
+    --van-collapse-item-content-padding:10px 10px!important;
+
+}
+.van-collapse-item__title{
+    padding:10px 10px!important ;
+}
+a{
+    text-decoration: none;
+}
